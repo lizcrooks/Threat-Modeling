@@ -5,8 +5,24 @@
     "description": "Educational institution IOT threat model"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Lovely"
+      },
+      {
+        "name": "Frank"
+      },
+      {
+        "name": "Hemica"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "IOT Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Ron"
   }
 }
